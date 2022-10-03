@@ -1,3 +1,5 @@
+package HomeWork3;
+
 public class HW3firstLvl {
     public static void main(String[] args)
     {
