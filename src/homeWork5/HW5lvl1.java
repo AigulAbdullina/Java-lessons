@@ -17,8 +17,9 @@ public class HW5lvl1 {
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
         System.out.println(isDivideFor4And6(num));
+
         String string = scanner.next();
-        boolean isMoreThan7 = string.length()>7;
+        boolean isMoreThan7 = string.length() > 7;
         System.out.println("Длинна строки больше 7? " + isMoreThan7);
 
     }
