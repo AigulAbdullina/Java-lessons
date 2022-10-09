@@ -18,6 +18,8 @@ public class HW5lvl2 {
         boolean isDivideForNum1andNum2 = number1 % number2 == 0;
         System.out.println("Делится ли первое число на второе? " + isDivideForNum1andNum2);
 
-
+        int x = 2;
+        int y = 3;
+        int sum = x + y;
     }
 }
