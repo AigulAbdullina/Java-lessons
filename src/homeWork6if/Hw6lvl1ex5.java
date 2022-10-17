@@ -1,4 +1,4 @@
-package homeWork6;
+package homeWork6if;
 
 import java.util.Random;
 

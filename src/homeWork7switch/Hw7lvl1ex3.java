@@ -1,4 +1,4 @@
-package homeWork7;
+package homeWork7switch;
 
 public class Hw7lvl1ex3 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package homeWork7;
+package homeWork7switch;
 
 import java.util.Scanner;
 
