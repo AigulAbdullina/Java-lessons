@@ -1,4 +1,4 @@
-package homeWork9;
+package homeWork10;
 
 public class Task4MultiTabl {
     public static void main(String[] args) {
